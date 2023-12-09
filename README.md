@@ -6,4 +6,4 @@ my skill set in areas such as backend development, and testing.
 I'm also looking forward to connecting with professionals in the industry and learning from their experiences.
 
 ## Skills
-1.f41b
+1. f41b
