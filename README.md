@@ -6,4 +6,10 @@ my skill set in areas such as backend development, and testing.
 I'm also looking forward to connecting with professionals in the industry and learning from their experiences.
 
 ## Skills
-1. &#9744; React
+1. HTML / CSS / JavaScript
+1. Bootstrap / SASS
+1. React-JS / Redux - Redux Toolkit / JQuery
+1.  Ant Design
+
+
+## Projects 
