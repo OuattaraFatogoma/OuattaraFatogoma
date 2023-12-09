@@ -5,15 +5,19 @@ In my free time, i enjoy learning new things. Right now, I'm working towards exp
 my skill set in areas such as backend development, and testing. 
 I'm also looking forward to connecting with professionals in the industry and learning from their experiences.
 
+
 ## Skills
 1. HTML / CSS / JavaScript
 1. Bootstrap / SASS
 1. React-JS / Redux - Redux Toolkit / JQuery
 1.  Ant Design
+1. NodeJS / Express / Puppeteer 
 
 
 ## Examples of Works 
 [<img src="https://github.com/OuattaraFatogoma/OuattaraFatogoma/blob/main/recipe-app.gif" width="250"/>](https://fat-recipe-app.onrender.com)
+[<img src="[https://github.com/OuattaraFatogoma/OuattaraFatogoma/blob/main/recipe-app.gif]" width="250"/>](https://shop-yiyi.onrender.com) 
+[<img src="https://github.com/OuattaraFatogoma/OuattaraFatogoma/blob/main/web-scraper.gif" width="250"/>](https://github.com/OuattaraFatogoma/Email-extractor)
 
 
 ## Profils 
