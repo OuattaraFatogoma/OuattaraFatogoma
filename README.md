@@ -16,7 +16,7 @@ I'm also looking forward to connecting with professionals in the industry and le
 
 ## Examples of Works 
 [<img src="https://github.com/OuattaraFatogoma/OuattaraFatogoma/blob/main/recipe-app.gif" width="250"/>](https://fat-recipe-app.onrender.com)
-[<img src="[https://github.com/OuattaraFatogoma/OuattaraFatogoma/blob/main/recipe-app.gif]" width="250"/>](https://shop-yiyi.onrender.com) 
+[<img src="https://github.com/OuattaraFatogoma/OuattaraFatogoma/blob/main/ecommerce.gif" width="250"/>](https://shop-yiyi.onrender.com)
 [<img src="https://github.com/OuattaraFatogoma/OuattaraFatogoma/blob/main/web-scraper.gif" width="250"/>](https://github.com/OuattaraFatogoma/Email-extractor)
 
 
